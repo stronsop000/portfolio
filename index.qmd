@@ -1,32 +1,62 @@
 ---
-title: "Welcome to Sophia's Strategic Management Portfolio"
+title: ""
 ---
 
-::: {.hero-banner .text-center}
+::: {.hero-banner}
 
-<img src="images/profile.jpg" alt="Sophia Strong" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Sophia Strong" class="rounded-circle">
 
 <h1>Sophia Strong</h1>
 
-<a href="https://www.linkedin.com/in/sophia-strong/" class="btn btn-outline-primary btn-sm" target="_blank">
+<p class="lead">Strategic Management Student & AI Innovation Enthusiast</p>
+
+<div class="hero-links">
+<a href="https://www.linkedin.com/in/sophia-strong/" class="btn btn-outline-primary" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/stronsop000" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/stronsop000" class="btn btn-outline-primary" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
+</div>
 
 :::
 
-👩‍💻 **About Me**
+<div class="container-fluid py-5">
+<div class="row justify-content-center">
+<div class="col-lg-8">
 
-I'm Sophia Strong, a Strategic Management student at BYU passionate about building products that blend strategy, technology, and impact. I've led large-scale projects for 128,000+ youth as an FSY Session Planning Analyst, advised small business owners on growth strategies at Salt Sanctuary, and explored rapid innovation through AI prototyping—where I design apps and websites in minutes. I thrive on solving complex problems, driving innovation, and turning ideas into real solutions.
+## About Me
 
-## Featured Projects
+I'm a Strategic Management student at BYU passionate about building products that blend **strategy, technology, and impact**. I've led large-scale projects for 128,000+ youth as an FSY Session Planning Analyst, advised small business owners on growth strategies at Salt Sanctuary, and explored rapid innovation through AI prototyping—where I design apps and websites in minutes.
 
-::: {.g-col-12 .g-col-md-6 .card}
+I thrive on **solving complex problems**, **driving innovation**, and **turning ideas into real solutions**.
 
-### [Finance Arcade](projects/project-1.qmd)
-A website that makes learning finance principles more accessible, simple, and fun through clear lessons and engaging content.
+</div>
+</div>
+</div>
 
-:::
+<div class="bg-light py-5">
+<div class="container">
+
+## Featured Work
+
+<div class="row">
+<div class="col-md-6 mb-4">
+<div class="project-card">
+<div class="project-content">
+<h3><a href="projects/project-1.qmd">Finance Arcade</a></h3>
+<p class="text-muted mb-3">Educational Platform</p>
+<p>A website that makes learning finance principles more accessible, simple, and fun through clear lessons and engaging content.</p>
+<div class="project-tech">
+<span class="badge bg-primary">HTML/CSS/JS</span>
+<span class="badge bg-info">AI-Assisted</span>
+<span class="badge bg-success">Deployed</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
 

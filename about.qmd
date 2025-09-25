@@ -1,81 +1,129 @@
 ---
-title: "About Me"
+title: ""
 ---
 
-::: {.hero-banner .text-center}
+::: {.hero-banner}
 
-<img src="images/profile.jpg" alt="Sophia Strong" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Sophia Strong" class="rounded-circle">
 
-<h1>Sophia Strong</h1>
+<h1>About Sophia Strong</h1>
 
-<a href="https://www.linkedin.com/in/sophia-strong/" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</a>
-<a href="https://github.com/stronsop000" class="btn btn-outline-primary btn-sm" target="_blank">
-  <i class="fab fa-github"></i> GitHub
-</a>
+<p class="lead">Strategic Management • Innovation • Leadership</p>
 
 :::
 
+<div class="container py-5">
+<div class="row justify-content-center">
+<div class="col-lg-10">
+
 ## Background
 
-👩‍💻 I'm Sophia Strong, a Strategic Management student at BYU passionate about building products that blend strategy, technology, and impact. I've led large-scale projects for 128,000+ youth as an FSY Session Planning Analyst, advised small business owners on growth strategies at Salt Sanctuary, and explored rapid innovation through AI prototyping—where I design apps and websites in minutes. I thrive on solving complex problems, driving innovation, and turning ideas into real solutions.
+I'm a Strategic Management student at BYU passionate about building products that blend **strategy, technology, and impact**. I've led large-scale projects for 128,000+ youth as an FSY Session Planning Analyst, advised small business owners on growth strategies at Salt Sanctuary, and explored rapid innovation through AI prototyping—where I design apps and websites in minutes.
 
-### Education
+I thrive on **solving complex problems**, **driving innovation**, and **turning ideas into real solutions**.
 
-**Brigham Young University – Marriott School of Business** (Provo, UT)
-*B.S. Strategic Management, May 2025 – Apr 2027*
-GPA: 3.91
+</div>
+</div>
+</div>
 
-- **Clubs**: Women in Strategy, Product Management Club, AI Club, Student Advisory Council
-- **Relevant Coursework**: Principles of Finance, Accounting, Economics, Information Systems, AI Prototyping
+<div class="bg-light py-5">
+<div class="container">
+<div class="row">
+<div class="col-md-6 mb-4">
 
-**University of Utah – David Eccles School of Business** (Salt Lake City, UT)
-*B.S. Finance, Aug 2022 – Jul 2023*
-GPA: 3.98
+<div class="info-card">
+<h3><i class="fas fa-graduation-cap text-primary me-2"></i>Education</h3>
 
-- **Activities**: Business Scholars, Women in Business, First-Year Government Cohort, Unite in Christ Circle President, Water Polo Team, Period Project H.B. 162 Activist
+**Brigham Young University – Marriott School of Business**
+*B.S. Strategic Management, 2025-2027 • GPA: 3.91*
 
-### Experience
+- Women in Strategy, Product Management Club, AI Club, Student Advisory Council
+- Finance, Accounting, Economics, Information Systems, AI Prototyping
 
-#### For the Strength of Youth (FSY) Conferences – Session Planning Analyst
+**University of Utah – David Eccles School of Business**
+*B.S. Finance, 2022-2023 • GPA: 3.98*
+
+- Business Scholars, Women in Business, Water Polo Team
+
+</div>
+</div>
+
+<div class="col-md-6 mb-4">
+<div class="info-card">
+<h3><i class="fas fa-briefcase text-primary me-2"></i>Experience</h3>
+
+**FSY Conferences – Session Planning Analyst**
 *Apr 2025 – Present*
+- Led forecasting for 128,000+ youth across U.S. and Canada
+- Presented national allocation strategy to executive leadership
 
-- Forecasted bed space, staffing, and location needs for 128,000+ youth across the U.S. and Canada
-- Proposed new campus expansions and tracked contract negotiations
-- Analyzed nationwide trends and presented a national allocation strategy to FSY's director
-
-#### Salt Sanctuary – Business Advisor
+**Salt Sanctuary – Business Advisor**
 *May 2025 – Present*
+- Identified new revenue streams through market research
+- Restructured pricing models to increase profitability
 
-- Conducted market research and identified growth opportunities, including introducing foot mapping as a new revenue stream
-- Advised owners on pricing models and service restructuring to increase profitability and retention
-- Proposed and implemented targeted marketing strategies for niche wellness audiences
-
-#### University of Utah – Accounting Intern
+**University of Utah – Accounting Intern**
 *May 2023 – Sep 2023*
+- Prepared audit documents with zero major findings
+- Created new documentation processes
 
-- Prepared thousands of financial documents for audit, leading to zero major findings
-- Digitized historical data and created a new documentation process for future audits
+</div>
+</div>
+</div>
 
-#### University of Utah Campus Store – HR Assistant
-*Aug 2022 – Apr 2023*
+<div class="row">
+<div class="col-md-4 mb-4">
+<div class="info-card text-center">
+<h3><i class="fas fa-cogs text-primary me-2"></i>Technical</h3>
+<ul class="list-unstyled">
+<li>AI-driven prototyping</li>
+<li>Financial analysis</li>
+<li>Market research</li>
+<li>German (Fluent)</li>
+</ul>
+</div>
+</div>
 
-- Supported 100+ employees with onboarding and workplace issues
-- Advocated for overtime and faculty perks, boosting morale during peak seasons
+<div class="col-md-4 mb-4">
+<div class="info-card text-center">
+<h3><i class="fas fa-users text-primary me-2"></i>Leadership</h3>
+<ul class="list-unstyled">
+<li>Project management</li>
+<li>Cross-team collaboration</li>
+<li>Stakeholder communication</li>
+<li>Strategic planning</li>
+</ul>
+</div>
+</div>
 
-### Skills & Interests
+<div class="col-md-4 mb-4">
+<div class="info-card text-center">
+<h3><i class="fas fa-heart text-primary me-2"></i>Interests</h3>
+<ul class="list-unstyled">
+<li>Public speaking</li>
+<li>Hiking</li>
+<li>AI innovation</li>
+<li>Product management</li>
+</ul>
+</div>
+</div>
+</div>
 
-🚀 **Technical Skills**
-- Market research, financial analysis, AI-driven prototyping (rapid app & web builds)
-- Languages: Fluent in German
+</div>
+</div>
 
-**Leadership Skills**
-- Project management, cross-team collaboration, stakeholder communication
+<div class="container py-5">
+<div class="row justify-content-center">
+<div class="col-lg-8 text-center">
 
-**Interests**
-Public speaking, hiking, and exploring how AI can transform product management
+## What's Next
 
-### What's Next
+I'm seeking opportunities that combine strategic thinking with innovative technology to create meaningful impact. Whether through **product management**, **business strategy**, or **AI-driven solutions**, I'm excited to connect with organizations that value both analytical rigor and creative problem-solving.
 
-I'm seeking opportunities that combine strategic thinking with innovative technology to create meaningful impact. Whether it's through product management, business strategy, or AI-driven solutions, I'm excited to connect with organizations that value both analytical rigor and creative problem-solving.
+<a href="https://www.linkedin.com/in/sophia-strong/" class="btn btn-primary btn-lg mt-3" target="_blank">
+  <i class="fab fa-linkedin me-2"></i>Let's Connect
+</a>
+
+</div>
+</div>
+</div>
