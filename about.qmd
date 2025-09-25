@@ -2,70 +2,90 @@
 title: ""
 ---
 
-::: {.hero-banner}
+<div class="hero-banner">
+<div class="container">
 
-<img src="images/profile.jpg" alt="Sophia Strong" class="rounded-circle">
+<img src="images/profile.jpg" alt="Sophia Strong">
 
 <h1>About Sophia Strong</h1>
 
 <p class="lead">Strategic Management • Innovation • Leadership</p>
 
-:::
+</div>
+</div>
 
-<div class="container py-5">
+<div class="content-section">
+<div class="container">
 <div class="row justify-content-center">
 <div class="col-lg-10">
 
-## Background
+<h2 class="text-center">Professional Summary</h2>
 
-I'm a Strategic Management student at BYU passionate about building products that blend **strategy, technology, and impact**. I've led large-scale projects for 128,000+ youth as an FSY Session Planning Analyst, advised small business owners on growth strategies at Salt Sanctuary, and explored rapid innovation through AI prototyping—where I design apps and websites in minutes.
+<p class="lead text-center">Results-driven Strategic Management student with expertise in large-scale project coordination, business development, and innovative technology applications.</p>
 
-I thrive on **solving complex problems**, **driving innovation**, and **turning ideas into real solutions**.
+<p>Currently pursuing a B.S. in Strategic Management at Brigham Young University's Marriott School of Business, I bring a unique combination of analytical rigor and creative problem-solving to complex business challenges. My experience spans from coordinating nationwide programs for over 128,000 participants to developing innovative educational technology platforms.</p>
+
+<p>I excel at identifying strategic opportunities, implementing data-driven solutions, and leading cross-functional initiatives that deliver measurable impact. My work is characterized by a commitment to excellence, stakeholder collaboration, and the integration of emerging technologies to drive organizational success.</p>
 
 </div>
 </div>
 </div>
+</div>
 
-<div class="bg-light py-5">
+<div class="bg-light content-section">
 <div class="container">
+
+<h2 class="text-center mb-4">Education & Professional Experience</h2>
+
 <div class="row">
 <div class="col-md-6 mb-4">
-
 <div class="info-card">
-<h3><i class="fas fa-graduation-cap text-primary me-2"></i>Education</h3>
+<h3><i class="fas fa-graduation-cap text-primary me-2"></i>Academic Background</h3>
 
-**Brigham Young University – Marriott School of Business**
-*B.S. Strategic Management, 2025-2027 • GPA: 3.91*
+<div class="mb-3">
+<strong>Brigham Young University – Marriott School of Business</strong><br>
+<em>Bachelor of Science in Strategic Management</em><br>
+<span class="text-muted">2025-2027 • GPA: 3.91</span>
+</div>
 
-- Women in Strategy, Product Management Club, AI Club, Student Advisory Council
-- Finance, Accounting, Economics, Information Systems, AI Prototyping
+<ul>
+<li>Active member: Women in Strategy, Product Management Club, AI Club</li>
+<li>Student Advisory Council representative</li>
+<li>Relevant coursework: Finance, Economics, Information Systems, AI Prototyping</li>
+</ul>
 
-**University of Utah – David Eccles School of Business**
-*B.S. Finance, 2022-2023 • GPA: 3.98*
-
-- Business Scholars, Women in Business, Water Polo Team
+<div class="mt-3">
+<strong>University of Utah – David Eccles School of Business</strong><br>
+<em>Bachelor of Science in Finance</em><br>
+<span class="text-muted">2022-2023 • GPA: 3.98</span>
+</div>
 
 </div>
 </div>
 
 <div class="col-md-6 mb-4">
 <div class="info-card">
-<h3><i class="fas fa-briefcase text-primary me-2"></i>Experience</h3>
+<h3><i class="fas fa-briefcase text-primary me-2"></i>Professional Experience</h3>
 
-**FSY Conferences – Session Planning Analyst**
-*Apr 2025 – Present*
-- Led forecasting for 128,000+ youth across U.S. and Canada
-- Presented national allocation strategy to executive leadership
+<div class="mb-3">
+<strong>For the Strength of Youth (FSY) Conferences</strong><br>
+<em>Session Planning Analyst</em> | <span class="text-muted">April 2025 – Present</span>
+</div>
+<ul>
+<li>Orchestrate logistics and resource allocation for 128,000+ youth participants across the U.S. and Canada</li>
+<li>Develop strategic recommendations for campus expansion and capacity optimization</li>
+<li>Present data-driven allocation strategies to executive leadership</li>
+</ul>
 
-**Salt Sanctuary – Business Advisor**
-*May 2025 – Present*
-- Identified new revenue streams through market research
-- Restructured pricing models to increase profitability
-
-**University of Utah – Accounting Intern**
-*May 2023 – Sep 2023*
-- Prepared audit documents with zero major findings
-- Created new documentation processes
+<div class="mb-3">
+<strong>Salt Sanctuary</strong><br>
+<em>Business Strategy Consultant</em> | <span class="text-muted">May 2025 – Present</span>
+</div>
+<ul>
+<li>Conduct comprehensive market analysis to identify new revenue opportunities</li>
+<li>Redesign pricing architecture to optimize profitability and client retention</li>
+<li>Develop targeted marketing strategies for specialized service offerings</li>
+</ul>
 
 </div>
 </div>
@@ -74,12 +94,26 @@ I thrive on **solving complex problems**, **driving innovation**, and **turning 
 <div class="row">
 <div class="col-md-4 mb-4">
 <div class="info-card text-center">
-<h3><i class="fas fa-cogs text-primary me-2"></i>Technical</h3>
+<h3><i class="fas fa-chart-line text-primary me-2"></i>Core Competencies</h3>
 <ul class="list-unstyled">
-<li>AI-driven prototyping</li>
-<li>Financial analysis</li>
-<li>Market research</li>
-<li>German (Fluent)</li>
+<li><strong>Strategic Planning</strong></li>
+<li><strong>Data Analysis</strong></li>
+<li><strong>Project Management</strong></li>
+<li><strong>Market Research</strong></li>
+<li><strong>Financial Modeling</strong></li>
+</ul>
+</div>
+</div>
+
+<div class="col-md-4 mb-4">
+<div class="info-card text-center">
+<h3><i class="fas fa-laptop-code text-primary me-2"></i>Technical Skills</h3>
+<ul class="list-unstyled">
+<li><strong>AI-Driven Prototyping</strong></li>
+<li><strong>Business Intelligence</strong></li>
+<li><strong>Process Optimization</strong></li>
+<li><strong>Digital Innovation</strong></li>
+<li><strong>German Language</strong></li>
 </ul>
 </div>
 </div>
@@ -88,22 +122,11 @@ I thrive on **solving complex problems**, **driving innovation**, and **turning 
 <div class="info-card text-center">
 <h3><i class="fas fa-users text-primary me-2"></i>Leadership</h3>
 <ul class="list-unstyled">
-<li>Project management</li>
-<li>Cross-team collaboration</li>
-<li>Stakeholder communication</li>
-<li>Strategic planning</li>
-</ul>
-</div>
-</div>
-
-<div class="col-md-4 mb-4">
-<div class="info-card text-center">
-<h3><i class="fas fa-heart text-primary me-2"></i>Interests</h3>
-<ul class="list-unstyled">
-<li>Public speaking</li>
-<li>Hiking</li>
-<li>AI innovation</li>
-<li>Product management</li>
+<li><strong>Cross-Functional Teams</strong></li>
+<li><strong>Stakeholder Management</strong></li>
+<li><strong>Executive Presentations</strong></li>
+<li><strong>Change Management</strong></li>
+<li><strong>Organizational Development</strong></li>
 </ul>
 </div>
 </div>
@@ -112,18 +135,27 @@ I thrive on **solving complex problems**, **driving innovation**, and **turning 
 </div>
 </div>
 
-<div class="container py-5">
+<div class="content-section">
+<div class="container">
 <div class="row justify-content-center">
 <div class="col-lg-8 text-center">
 
-## What's Next
+<h2>Career Objectives</h2>
 
-I'm seeking opportunities that combine strategic thinking with innovative technology to create meaningful impact. Whether through **product management**, **business strategy**, or **AI-driven solutions**, I'm excited to connect with organizations that value both analytical rigor and creative problem-solving.
+<p class="lead">Seeking strategic leadership opportunities in product management, business consulting, or innovation-driven organizations where analytical excellence meets transformative impact.</p>
 
-<a href="https://www.linkedin.com/in/sophia-strong/" class="btn btn-primary btn-lg mt-3" target="_blank">
-  <i class="fab fa-linkedin me-2"></i>Let's Connect
+<p>I am particularly interested in roles that leverage strategic thinking, data-driven decision making, and emerging technologies to solve complex business challenges and drive organizational growth.</p>
+
+<div class="mt-4">
+<a href="https://www.linkedin.com/in/sophia-strong/" class="btn btn-primary btn-lg me-2" target="_blank">
+  <i class="fab fa-linkedin me-2"></i>Connect on LinkedIn
 </a>
+<a href="projects/project-1.qmd" class="btn btn-outline-primary btn-lg">
+  <i class="fas fa-briefcase me-2"></i>View My Work
+</a>
+</div>
 
+</div>
 </div>
 </div>
 </div>
