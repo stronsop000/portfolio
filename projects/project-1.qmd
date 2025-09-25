@@ -1,33 +1,35 @@
 ---
-title: "Name of the application I have published for Homework 1"
+title: "Finance Arcade"
 date: "2024-09-15"
-categories: [GitHub, Vercel, Claude Code]
+categories: [GitHub, Vercel, Claude Code, Finance Education]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+Finance Arcade is a website I created to make learning finance principles more accessible, simple, and fun. Instead of overwhelming jargon, the site breaks down core concepts into easy-to-understand lessons, giving students and beginners the tools to approach finance with confidence.
 
 The primary purpose of this app is to:
 
-- ....
-- ....
+- Make finance education accessible and engaging for beginners
+- Break down complex financial concepts into digestible lessons
+- Provide a fun, interactive learning experience
+- Help students and young professionals build financial literacy
 
 ## Live Product Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
   <!-- Open App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
+     href="https://my-first-black.vercel.app/"
      target="_blank" rel="noopener"
-     aria-label="Open live app">
+     aria-label="Open Finance Arcade">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
-    Open App in New Tab
+    Open Finance Arcade
   </a>
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
+     href="https://github.com/stronsop000/my-first.git"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
@@ -35,20 +37,22 @@ The primary purpose of this app is to:
   </a>
 </div>
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
+<iframe src="https://my-first-black.vercel.app/"
         style="width:100%; height:900px; border:none;"
         allowfullscreen>
 </iframe>
 
 ## Technical Details
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+**Framework/Stack:** HTML/CSS/JavaScript with modern web technologies
 
-Deployment: GitHub Pages + Vercel
+**Deployment:** GitHub + Vercel
 
-Tools Used:
--   Claude Code
+**Tools Used:**
+- Claude Code for rapid development
+- AI-driven prototyping for quick iteration
+- Modern responsive design principles
 
-## Product Requirements Document
+## Project Goals
 
-Paste in the PRD that you submitted to Claude Code
+My goal was to design an approachable resource that helps anyone—whether new to business or curious about money basics—engage with finance in a clear and enjoyable way. This project demonstrates my ability to identify user needs, create educational content, and deliver a polished web application using modern development tools.

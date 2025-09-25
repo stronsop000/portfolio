@@ -1,28 +1,32 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Welcome to Sophia's Strategic Management Portfolio"
 ---
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Sophia Strong" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Sophia Strong</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/sophia-strong/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/stronsop000" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
 
+👩‍💻 **About Me**
+
+I'm Sophia Strong, a Strategic Management student at BYU passionate about building products that blend strategy, technology, and impact. I've led large-scale projects for 128,000+ youth as an FSY Session Planning Analyst, advised small business owners on growth strategies at Salt Sanctuary, and explored rapid innovation through AI prototyping—where I design apps and websites in minutes. I thrive on solving complex problems, driving innovation, and turning ideas into real solutions.
+
 ## Featured Projects
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+### [Finance Arcade](projects/project-1.qmd)
+A website that makes learning finance principles more accessible, simple, and fun through clear lessons and engaging content.
 
 :::
 
