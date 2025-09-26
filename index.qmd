@@ -46,22 +46,23 @@ Strategic Management student at Brigham Young University with demonstrated exper
 <div class="col-md-8">
 <div class="project-card">
 
-<h3><a href="projects/project-1.qmd">Finance Arcade</a></h3>
-<p class="text-muted mb-3">Educational Technology Platform</p>
+<h3>Sandfalling Game</h3>
+<p class="text-muted mb-3">Physics Simulation, Canvas/WebGL, Performance-Optimized</p>
 
-<p>Developed an interactive educational platform that transforms complex financial concepts into accessible, engaging learning experiences. The project demonstrates proficiency in user experience design, educational content development, and rapid prototyping methodologies.</p>
+<p>A touch-friendly falling-sand simulation with realistic particle interactions (sand, water, oil, fire), built with Next.js + Canvas for smooth performance on desktop and mobile.</p>
 
 <div class="project-tech">
 <span class="badge bg-primary">Web Development</span>
-<span class="badge bg-info">AI-Assisted Development</span>
-<span class="badge bg-success">Production Deployed</span>
+<span class="badge bg-info">Interactive Simulation</span>
+<span class="badge bg-success">Production</span>
+<span class="badge bg-secondary">Deployed</span>
 </div>
 
 <div class="mt-3">
-<a href="https://my-first-black.vercel.app/" class="btn btn-primary" target="_blank">
+<a href="https://sand-falling.vercel.app/" class="btn btn-primary" target="_blank">
   <i class="fas fa-external-link-alt"></i> View Live Project
 </a>
-<a href="https://github.com/stronsop000/my-first.git" class="btn btn-outline-primary" target="_blank">
+<a href="https://github.com/stronsop000/sand-falling" class="btn btn-outline-primary" target="_blank">
   <i class="fab fa-github"></i> Source Code
 </a>
 </div>
