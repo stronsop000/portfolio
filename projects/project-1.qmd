@@ -1,35 +1,35 @@
 ---
-title: "Finance Arcade"
-date: "2024-09-15"
-categories: [GitHub, Vercel, Claude Code, Finance Education]
+title: "Sandfalling Game"
+date: "2024-09-26"
+categories: [GitHub, Vercel, Next.js, Physics Simulation, Canvas]
 ---
 
 ## Overview
 
-Finance Arcade is a website I created to make learning finance principles more accessible, simple, and fun. Instead of overwhelming jargon, the site breaks down core concepts into easy-to-understand lessons, giving students and beginners the tools to approach finance with confidence.
+Sandfalling Game is a touch-friendly falling-sand simulation featuring realistic particle interactions between different materials like sand, water, oil, and fire. Built with Next.js and Canvas/WebGL, it delivers smooth performance across desktop and mobile devices while demonstrating advanced physics simulation techniques.
 
 The primary purpose of this app is to:
 
-- Make finance education accessible and engaging for beginners
-- Break down complex financial concepts into digestible lessons
-- Provide a fun, interactive learning experience
-- Help students and young professionals build financial literacy
+- Create an engaging physics simulation with realistic particle behavior
+- Demonstrate performance optimization for canvas-based applications
+- Provide cross-platform compatibility for desktop and mobile devices
+- Showcase interactive simulation development using modern web technologies
 
 ## Live Product Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
   <!-- Open App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://my-first-black.vercel.app/"
+     href="https://sand-falling.vercel.app/"
      target="_blank" rel="noopener"
-     aria-label="Open Finance Arcade">
+     aria-label="Open Sandfalling Game">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
-    Open Finance Arcade
+    Open Sandfalling Game
   </a>
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/stronsop000/my-first.git"
+     href="https://github.com/stronsop000/sand-falling"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
@@ -37,22 +37,24 @@ The primary purpose of this app is to:
   </a>
 </div>
 
-<iframe src="https://my-first-black.vercel.app/"
+<iframe src="https://sand-falling.vercel.app/"
         style="width:100%; height:900px; border:none;"
         allowfullscreen>
 </iframe>
 
 ## Technical Details
 
-**Framework/Stack:** HTML/CSS/JavaScript with modern web technologies
+**Framework/Stack:** Next.js with Canvas API and WebGL optimization
 
 **Deployment:** GitHub + Vercel
 
 **Tools Used:**
-- Claude Code for rapid development
-- AI-driven prototyping for quick iteration
+- Next.js for React-based development framework
+- Canvas API for real-time particle rendering
+- Performance optimization for smooth 60fps simulation
+- Touch-friendly controls for mobile compatibility
 - Modern responsive design principles
 
 ## Project Goals
 
-My goal was to design an approachable resource that helps anyone—whether new to business or curious about money basics—engage with finance in a clear and enjoyable way. This project demonstrates my ability to identify user needs, create educational content, and deliver a polished web application using modern development tools.
+My goal was to create a compelling physics simulation that showcases advanced web development skills while providing an engaging user experience. This project demonstrates proficiency in performance optimization, real-time rendering, cross-platform development, and interactive simulation design using cutting-edge web technologies.
